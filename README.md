@@ -8,9 +8,9 @@ This bot is probably the reason you saw that post again on Reddit. Need help wit
 ![farm karma bot](https://user-images.githubusercontent.com/1307942/86153469-a40a8f80-baf9-11ea-80b5-d86dd31108d6.png)
 
 ### Video install guides
-[Windows](https://youtu.be/6ICjZUHO2_I)
+[Windows](https://youtu.be/eq96K7K7Ouo)
 
-[Linux/macOS](https://youtu.be/ga0OC6lYSRs)
+[Linux/macOS](https://youtu.be/JkvaTe2cTw4)
 
 ### 2020 update videos
 
